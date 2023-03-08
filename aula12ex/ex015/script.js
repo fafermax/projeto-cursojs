@@ -1,3 +1,3 @@
 function verificar(){
-    window.alert(`Funcionou caraio`)
+    window.alert(`Funcionou`)
 }
