@@ -6,6 +6,8 @@ function verificar() {
    if (fano.value == 0 || fano.value > ano) {
     window.alert(`Verifique os dados e tente novamente`)
    }else {
-    var fsex = 
+    var fsex = document.getElementsByName(`radsex`)
+    var idade = ano - Number(fano.value)
+    res.innerHTML = `Idade Calculada: ${idade}`
    }
 }
