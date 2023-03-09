@@ -1,16 +1,17 @@
 body {
- background: rgb(30, 50, 70);
+ background: rgba(17, 57, 97, 0.705);
  font: normal 15pt Arial;
 }
 
 header {
-color: white;
-text-align: center;   
+color: rgb(252, 247, 247);
+text-align: center;  
+
 }
 
 section {
- background: white;
- border-radius: 10px;
+ background: rgba(223, 222, 219, 0.904);
+ border-radius: 15px;
  padding: 15px;
  width: 500px;
  margin: auto;
