@@ -18,6 +18,7 @@ function verificar() {
       genero = `Homem`
       if (idade >=0 && idade <10) {
          //crianca
+
          img.setAttribute(`src`,`bebe_homem.jpg`)
       } else if (idade < 21) {
          //jovem
