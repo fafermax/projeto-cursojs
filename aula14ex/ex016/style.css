@@ -1,7 +1,7 @@
 body {
  background: rgb(135, 135, 247);
  font: normal 15pt Arial;
- text-shadow: 2px 2px 10px black;
+
 }
 
 header {
@@ -15,7 +15,7 @@ section {
  padding: 15px;
  width: 500px;
  margin: auto;
- box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.562);
+ box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.938);
  
 }
 
@@ -23,6 +23,7 @@ footer {
 color: white;
 text-align: center;
 font-style: italic;
+text-shadow: 2px 2px 10px rgba(0, 0, 0, 0.966);
 }
 img {
     background: no-repeat center;
