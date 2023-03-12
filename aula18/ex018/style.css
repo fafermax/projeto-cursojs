@@ -15,8 +15,16 @@ section {
  padding: 15px;
  width: 500px;
  margin: auto;
- box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.562);
  
+ 
+}
+
+select#flista {
+    padding-top: 100px;
+   margin-left: 100px;
+   margin-top: 10px;
+    width: 300px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.562);
 }
 
 footer {
